@@ -122,9 +122,6 @@ const Player = () => {
               </button>
             </div>
           </div>
-
-          {/* Progress Bar */}
-
           <audio ref={audioRef}></audio>
         </>
       ) : (
